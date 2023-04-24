@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @skittixch
-- 👀 I’m interested in NFT development
+- 👀 I’m interested in ~~NFT development~~ something different every 6 months or so
 - 🌱 I’m currently learning things from the very beginning
-- 💞️ I’m looking to collaborate on things after I get some solid fundamental understanding of react
+- 💞️ I’m looking to collaborate on things after I get some solid fundamental understanding ~~of react~~ whatever I'm working on 
 - 📫 How to reach me ... you're a smarty pants. you'll figure it out.
 
 <!---
