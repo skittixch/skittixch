@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skittixch
 - 👀 I’m interested in something different every 6 months or so
-- 🌱 I’m currently working on building a memorial experience for my friend
+- 🌱 I’m currently working on building an automated crypto trading system
 - 💞️ I’m looking fake it til' I make it re: development
 - 📫 How to reach me ... you're a smarty pants. you'll figure it out.
 
